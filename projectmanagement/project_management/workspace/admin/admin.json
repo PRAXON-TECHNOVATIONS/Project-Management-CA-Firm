@@ -1,7 +1,7 @@
 {
  "charts": [],
- "content": "[{\"id\":\"19HwgK6qC8\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Admin</span>\",\"col\":12}},{\"id\":\"i7YHD-w5Fr\",\"type\":\"card\",\"data\":{\"card_name\":\"Masters\",\"col\":4}},{\"id\":\"NCKC2x7sYw\",\"type\":\"card\",\"data\":{\"card_name\":\"Transactions\",\"col\":4}},{\"id\":\"rfQgm8_ZKa\",\"type\":\"card\",\"data\":{\"card_name\":\"Report\",\"col\":4}}]",
- "creation": "2024-12-29 16:59:26.345543",
+ "content": "[{\"id\":\"zqtWHizJBG\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Admin</span>\",\"col\":12}},{\"id\":\"puvWz65b64\",\"type\":\"card\",\"data\":{\"card_name\":\"Masters\",\"col\":4}},{\"id\":\"beYjVyjgoo\",\"type\":\"card\",\"data\":{\"card_name\":\"Transaction\",\"col\":4}},{\"id\":\"-OjgFbh4R3\",\"type\":\"card\",\"data\":{\"card_name\":\"Reports\",\"col\":4}}]",
+ "creation": "2024-12-29 20:12:31.751733",
  "custom_blocks": [],
  "docstatus": 0,
  "doctype": "Workspace",
@@ -35,7 +35,7 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "Clients",
+   "label": "Client",
    "link_count": 0,
    "link_to": "Customer",
    "link_type": "DocType",
@@ -45,7 +45,7 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "Transactions",
+   "label": "Transaction",
    "link_count": 2,
    "link_type": "DocType",
    "onboard": 0,
@@ -74,7 +74,7 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "Report",
+   "label": "Reports",
    "link_count": 2,
    "link_type": "DocType",
    "onboard": 0,
@@ -101,12 +101,12 @@
    "type": "Link"
   }
  ],
- "modified": "2024-12-29 17:38:54.751445",
- "modified_by": "sahil@gmail.com",
+ "modified": "2024-12-29 20:15:38.175742",
+ "modified_by": "Administrator",
  "module": "project management",
  "name": "Admin",
  "number_cards": [],
- "owner": "sahil@gmail.com",
+ "owner": "Administrator",
  "parent_page": "",
  "public": 1,
  "quick_lists": [],
@@ -115,7 +115,7 @@
    "role": "Admin"
   }
  ],
- "sequence_id": 29.0,
+ "sequence_id": 28.0,
  "shortcuts": [],
  "title": "Admin"
 }
