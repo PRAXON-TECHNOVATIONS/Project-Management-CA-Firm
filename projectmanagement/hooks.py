@@ -255,5 +255,17 @@ fixtures = [
                 ],
             ]
         ],
+     },
+     {
+        "dt": "Workspace",
+        "filters": [
+            [
+                "name",
+                "in",
+                [
+                    "Admin"
+                ],
+            ]
+        ],
      }
 ]
